@@ -8,4 +8,4 @@ Desverre kan ikke GitHub ta så store filer, men her skal jeg legge link til pri
 
 #
 
-Leksjon 1: https://youtu.be/sT86EGHU1MM
+Leksjon 1: https://www.youtube.com/watch?v=0e-IqwcYDSs
